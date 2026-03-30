@@ -1,0 +1,2 @@
+# Pharmaceutical-companies-invest-heavily-in-marketing-campaigns-
+to predict how much budget will be required for future campaigns. The problem is to build a Machine Learning model that can forecast (predict)  the expenditure of pharmaceutical marketing campaigns based on historical data such as: Past campaign spending Type of campaign (digital, offline, doctor visits, etc.) Region or market Product category.
